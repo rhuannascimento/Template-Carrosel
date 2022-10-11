@@ -1,5 +1,7 @@
 # Template-Para-Carrossel
 
+Link: https://rhuannascimento.github.io/Template-Carrosel/
+
  - Este template tem o intuito de ser usado em outros sites e projetos aleios;
  - Este projeto é responsivo;
  - Ele adapta seu JS dianamicamente a quantidade de iamgens inseridas no mesmo, com apenas algumas alterações no HTML;
